@@ -2,7 +2,8 @@
 
 > Android
 - owasp-mstg (uncrackable)
-- fridaLAB (coming soon)
+- fridaLAB
+- insecurebank (coming soon)
 
 > iOS
 - coming soon
